@@ -1,0 +1,1 @@
+python train.py  --name 'fashion_test' --dataroot '/data/kmaeii/code/python/copy-multi-condition/datasets' --batchSize 2

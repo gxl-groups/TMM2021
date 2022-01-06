@@ -1,0 +1,15 @@
+python train.py --name fashion --dataroot '/home/belizabeth/Documents/Programming/Pytorch/pix2pixHD/datasets/fashion_gen/full/' --batchSize 2
+
+python test.py --name fashion --dataroot '/home/belizabeth/Documents/Programming/Pytorch/pix2pixHD/datasets/fashion_gen/small/' 
+
+python test.py --name fashion --dataroot '/home/belizabeth/Documents/Programming/Pytorch/pix2pixHD/datasets/fashion_gen/test_small2_1/' 
+
+python test.py --name fashion --dataroot '/home/belizabeth/Documents/Programming/Pytorch/pix2pixHD/datasets/fashion_gen/test_small2_2/' 
+
+python test.py --name fashion --dataroot '/home/belizabeth/Documents/Programming/Pytorch/pix2pixHD/datasets/fashion_gen/test_small3_1/' 
+
+python test.py --name fashion --dataroot '/home/belizabeth/Documents/Programming/Pytorch/pix2pixHD/datasets/fashion_gen/test_small3_2/'
+
+python test.py --name fashion --dataroot '/home/belizabeth/Documents/Programming/Pytorch/pix2pixHD/datasets/fashion_gen/test_small4/' 
+
+python test.py --name fashion --dataroot '/home/belizabeth/Documents/Programming/Pytorch/pix2pixHD/datasets/fashion_gen/full/' 
